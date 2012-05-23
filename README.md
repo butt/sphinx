@@ -4,4 +4,4 @@
 
     [imagine]
 	target = /sphinx
-	git = git://github.com/butt/sphinx.git
+	git = git@github.com:butt/sphinx.git
