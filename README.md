@@ -2,6 +2,6 @@
 
 ### Download by editing deps file
 
-    [sphinx]
+    [sphinxapi]
 	target = /sphinx
 	git = git@github.com:butt/sphinx.git
